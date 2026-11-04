@@ -1,0 +1,1 @@
+# OctoFit Tracker is implemented in TypeScript/JavaScript and has no Python dependencies.
